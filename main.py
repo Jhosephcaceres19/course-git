@@ -1,3 +1,1 @@
-int text;
-text= "probando revase y merge"
-print("agregando main")
+print("prueba 5")
